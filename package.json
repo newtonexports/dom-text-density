@@ -1,6 +1,6 @@
 {
-  "name": "newtonexports/dom-text-density",
-  "version": "1.0.1",
+  "name": "@newtonexports/dom-text-density",
+  "version": "1.0.2",
   "description": "Zero-dependency content-to-tag density scoring for headless HTML extraction",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
